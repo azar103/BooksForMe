@@ -16,5 +16,5 @@ un livre à vos favoris
   <li>FlatList</li>
   <li>Redux</li>
   <li>Search</li>
-  <li>Navigation Tabs<li>
+  <li>Navigation Tabs</li>
 </ul>
