@@ -1,7 +1,6 @@
 # BooksForMe
 
-BooksForMe est une application qui vous permet de gérer vos livre(ajouter ou supprimer un livre), de chercher vos livres et d'ajouter 
-un livre à vos favoris
+BooksForMe est une application qui vous permet de gérer vos propres livre(ajouter ou supprimer un livre), de chercher des livres ajouté par vous ou par des autres utilisteurs et d'ajouter un livre à vos favoris
 
 # Aperçu de l'interfaçe
 
